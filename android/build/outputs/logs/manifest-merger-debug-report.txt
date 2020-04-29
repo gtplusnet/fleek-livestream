@@ -1,0 +1,89 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml:2:3-30:14
+INJECTED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml:2:3-30:14
+INJECTED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml:2:3-30:14
+INJECTED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml:2:3-30:14
+INJECTED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml:2:3-30:14
+INJECTED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml:2:3-30:14
+INJECTED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml:2:3-30:14
+	package
+		ADDED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml:3:7-62
+		INJECTED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml
+		INJECTED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml
+		ADDED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml:2:3-30:14
+		INJECTED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml
+		ADDED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml:2:3-30:14
+		INJECTED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml:2:13-71
+uses-permission#android.permission.CAMERA
+ADDED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml:5:3-63
+	android:name
+		ADDED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml:5:20-60
+uses-permission#android.permission.INTERNET
+ADDED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml:6:3-65
+	android:name
+		ADDED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml:6:20-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml:7:3-69
+	android:name
+		ADDED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml:7:20-66
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml:8:3-77
+	android:name
+		ADDED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml:8:20-74
+uses-feature#0x00020000
+ADDED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml:10:3-12:35
+	android:glEsVersion
+		ADDED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml:11:9-41
+	android:required
+		ADDED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml:12:9-32
+application
+ADDED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml:14:3-29:17
+	android:supportsRtl
+		ADDED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml:16:9-41
+	android:allowBackup
+		ADDED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml:18:9-40
+activity#com.live.broadcast.plugin.MainActivity
+ADDED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml:20:4-69
+	android:name
+		ADDED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml:20:14-67
+activity#com.live.broadcast.plugin.liveVideoBroadcaster.LiveVideoBroadcasterActivity
+ADDED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml:21:5-24:7
+	android:configChanges
+		ADDED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml:22:5-66
+	android:theme
+		ADDED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml:23:5-72
+	android:name
+		ADDED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml:21:15-105
+activity#com.live.broadcast.plugin.liveVideoPlayer.LiveVideoPlayerActivity
+ADDED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml:25:4-26:7
+	android:name
+		ADDED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml:25:14-94
+service#io.antmedia.android.broadcaster.LiveVideoBroadcaster
+ADDED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml:28:4-83
+	android:name
+		ADDED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml:28:13-80
+uses-sdk
+INJECTED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml
+INJECTED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml
+INJECTED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml
+INJECTED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml
+		ADDED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml
+		INJECTED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml
+		ADDED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml
+		INJECTED from E:\1 Fleek Project\fleek\src-capacitor\node_modules\live-broadcast-plugin\android\src\main\AndroidManifest.xml
